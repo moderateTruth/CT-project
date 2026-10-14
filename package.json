@@ -1,0 +1,13 @@
+{
+  "name": "study-app",
+  "version": "1.0.0",
+  "description": "Educational study material framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "unblocker": "^0.3.11"
+  }
+}
